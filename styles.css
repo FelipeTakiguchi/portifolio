@@ -1,0 +1,24 @@
+
+.card:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+button:hover{
+    transform:scale(1.05);
+}
+html, body {
+        height: 100%;
+        margin: 0pt;
+}
+.Frame {
+        display: table;
+        height: 100%;
+        width: 100%;
+}
+.Row {
+        display: table-row;
+        height: 1px;
+}
+.Row.Expand {
+        height: auto;
+}
