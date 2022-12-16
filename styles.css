@@ -22,3 +22,16 @@ html, body {
 .Row.Expand {
         height: auto;
 }
+
+#perfil:hover{
+        transform: scale(1.3);
+}
+
+
+
+
+
+
+
+
+
