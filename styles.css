@@ -1,8 +1,12 @@
-
 .card:hover{
-    transform: scale(1.1);
+    transform: scale(1.03);
     transition: 1s;
 }
+
+#section{
+        box-shadow: #fff 3px 5px 4px 2px inset;
+}
+
 button:hover{
     transform:scale(1.05);
 }
